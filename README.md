@@ -19,7 +19,7 @@ Demonstration:
 
 To run the project locally, follow these steps:
 
-Clone the repository:
+Clone the repository: https://github.com/hajarST/TP_Microservices.git
 
 Open each microservice project (service-client and service-voiture) in your preferred IDE.
 
